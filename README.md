@@ -59,7 +59,9 @@
 <img width="1012" height="408" alt="14 (1)" src="https://github.com/user-attachments/assets/41b6ced4-f2ec-4fa5-8665-b71db6ad45b0" />
 
 **15:- Now, when you try to open the Control Panel, it will open normally. However, the user added to the Organizational Unit will be restricted from accessing the Control Panel.**
-<img width="963" height="581" alt="15 (1)" src="https://github.com/user-attachments/assets/6aae39dd-d6aa-41dd-87d2-a2b82d21c6ff"
+<img width="963" height="581" alt="15 (1)" src="https://github.com/user-attachments/assets/82a08bb2-5600-4ecd-97ad-edcd89c3ef67" />
+
+
 
 
 ## 🔚 Conclusion
